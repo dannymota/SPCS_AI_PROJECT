@@ -1,28 +1,9 @@
 # SPCS_AI_PROJECT
 Please keep this object oriented, and separate the code so we can work on multiple classes at the same time, in addition to making the algorithms more flexible.
 
-Ideas:
+Idea:
 
 	• Handwriting Image Recognition (NIST-SD19 Dataset), Word2Vec (Tensorflow)
-	
-	• Allowing the computer to understand what numbers are (Just pass supervised images)
-	
-	• Music/Sound
-	
-	• Emotion Recognition (Just pass supervised images, CK+)
-	
-	• NLP
-	
-	• Sign Language
-	
-	• Voice Recognition
-	
-Extra Project:
-
-	• Pokemon Classification
-
-
-
 
 Copyright (c) 2016 Danny Mota, Maruth Goyal, Judge Madan
 
